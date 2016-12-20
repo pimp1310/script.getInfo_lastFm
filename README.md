@@ -16,11 +16,12 @@ $INFO[Listitem.Property(artistname)]
 <content>plugin://script.getInfo_LastFM?request=getSimilar&amp;&amp;artist=$INFO[ListItem.Artist]</content>
 ```
 Properties:
-    -artistname
-    -imageurl_s
-    -imageurl_m
-    -imageurl_l
-    -imageurl_xl
+   
+- 'artistname'
+- 'imageurl_s'
+- 'imageurl_m'
+- 'imageurl_l'
+- 'imageurl_xl'
 	
 	
 
@@ -30,12 +31,13 @@ Properties:
 <content>plugin://script.getInfo_LastFM?request=getTopAlbums&amp;&amp;artist=$INFO[ListItem.Artist]</content>
 ```
 Properties:
-    -albumname
-    -playcount
-    -imageurl_s
-    -imageurl_m
-    -imageurl_l
-    -imageurl_xl
+
+- 'albumname'
+- 'playcount'
+- 'imageurl_s'
+- 'imageurl_m'
+- 'imageurl_l'
+- 'imageurl_xl'
 
 
 ### LASTFM TOP TRACKS ARTISTS
@@ -43,13 +45,14 @@ Properties:
 <content>plugin://script.getInfo_LastFM?request=getTopTracks&amp;&amp;artist=$INFO[ListItem.Artist]</content>
 ```
 Properties:
-    -trackname
-    -playcount
-    -listeners
-    -imageurl_s
-    -imageurl_m
-    -imageurl_l
-    -imageurl_xl
+
+- 'trackname'
+- 'playcount'
+- 'listeners'
+- 'imageurl_s'
+- 'imageurl_m'
+- 'imageurl_l'
+- 'imageurl_xl'
 
 
 
