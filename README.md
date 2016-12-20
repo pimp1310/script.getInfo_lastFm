@@ -12,9 +12,9 @@ $INFO[Listitem.Property(artistname)]
 
 
 ### LASTFM SIMILAR ARTISTS
-
+```
 <content>plugin://script.getInfo_LastFM?request=getSimilar&amp;&amp;artist=$INFO[ListItem.Artist]</content>
-
+```
 Properties:
     -artistname
     -imageurl_s
@@ -26,9 +26,9 @@ Properties:
 
 
 ### LASTFM TOP ALBUMS ARTISTS
-
+```
 <content>plugin://script.getInfo_LastFM?request=getTopAlbums&amp;&amp;artist=$INFO[ListItem.Artist]</content>
-
+```
 Properties:
     -albumname
     -playcount
@@ -39,8 +39,10 @@ Properties:
 
 
 ### LASTFM TOP TRACKS ARTISTS
-
+```
 <content>plugin://script.getInfo_LastFM?request=getTopTracks&amp;&amp;artist=$INFO[ListItem.Artist]</content>
+```
+Properties:
     -trackname
     -playcount
     -listeners
