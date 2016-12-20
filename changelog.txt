@@ -1,0 +1,7 @@
+v.1.1
+- Added more requsts (see Readme)
+
+v.1.0
+
+-Initial Release
+
