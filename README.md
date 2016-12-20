@@ -55,6 +55,14 @@ Properties:
 - 'imageurl_xl'
 
 
+###Examples
+
+[![Bildschirmfoto vom 2016-12-20 16-09-59.png](https://s28.postimg.org/fdpgcmcgt/Bildschirmfoto_vom_2016_12_20_16_09_59.png)](https://postimg.org/image/nvywgyizd/)
+
+[![Bildschirmfoto vom 2016-12-20 16-10-07.png](https://s23.postimg.org/cblzgeadn/Bildschirmfoto_vom_2016_12_20_16_10_07.png)](https://postimg.org/image/rkbwu641z/)
+
+[![Bildschirmfoto vom 2016-12-20 16-10-19.png](https://s30.postimg.org/b0olz64nl/Bildschirmfoto_vom_2016_12_20_16_10_19.png)](https://postimg.org/image/cfq6nw5ql/)
+
 
 
 
