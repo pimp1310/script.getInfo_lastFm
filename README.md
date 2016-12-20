@@ -10,7 +10,9 @@ You need this file in your MQ7 Skin Folder (Easy Replace the old one)
 ```
 https://github.com/pimp1310/dialogmusicinfo
 ```
-Example:
+
+
+Example of a Request in a Container :
 ```
 $INFO[Listitem.Property(artistname)]
 ```
